@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "jusokolova"
+      "X-Author": "jusokolova",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
